@@ -35,7 +35,13 @@ jobs:
           
           # Stats détaillées
           plugin_lines: yes
-          # plugin_traffic: yes  <-- Désactivé temporairement car cause souvent l'erreur "Insufficient token scopes"
+          plugin_lines_history_limit: 1
+          plugin_lines_repositories_limit: 4
+          plugin_lines_sections: base
+          
+          # Étoiles reçues
+          plugin_stars: yes
+          plugin_stars_limit: 4
           
           # Affichage
           filename: github-metrics.svg
