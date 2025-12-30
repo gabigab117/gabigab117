@@ -73,8 +73,11 @@ Je ne fais pas que coder, je partage aussi ma passion :
 ### 📊 Statistiques GitHub
 
 <div align="center">
-  <!-- Cette image sera générée automatiquement par l'action GitHub Metrics -->
-  <img src="https://raw.githubusercontent.com/gabigab117/gabigab117/main/github-metrics.svg" alt="Metrics" width="100%">
+  <img src="https://raw.githubusercontent.com/gabigab117/gabigab117/main/profile-summary-card-output/github/0-profile-details.svg" alt="Profile Details">
+  <img src="https://raw.githubusercontent.com/gabigab117/gabigab117/main/profile-summary-card-output/github/1-repos-per-language.svg" alt="Repos per Language">
+  <img src="https://raw.githubusercontent.com/gabigab117/gabigab117/main/profile-summary-card-output/github/2-most-commit-language.svg" alt="Most Commit Language">
+  <img src="https://raw.githubusercontent.com/gabigab117/gabigab117/main/profile-summary-card-output/github/3-stats.svg" alt="Stats">
+  <img src="https://raw.githubusercontent.com/gabigab117/gabigab117/main/profile-summary-card-output/github/4-productive-time.svg" alt="Productive Time">
 </div>
 
 ---
