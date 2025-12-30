@@ -21,6 +21,8 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Paris
+          repositories_forks: yes
+          repositories_affiliations: owner, collaborator
           
           # Contenu additionnel
           plugin_languages: yes
