@@ -31,9 +31,9 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           
-          # Stats détaillées (incluant le privé grâce au token)
+          # Stats détaillées
           plugin_lines: yes
-          plugin_traffic: yes
+          # plugin_traffic: yes  <-- Désactivé temporairement car cause souvent l'erreur "Insufficient token scopes"
           
           # Affichage
           filename: github-metrics.svg
